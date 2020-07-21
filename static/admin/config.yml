@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: juliancioc/prsonal-blog
+  repo: juliancioc/personal-blog
 
 media_folder: content/assets
 public_folder: ../assets

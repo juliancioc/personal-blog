@@ -34,12 +34,12 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, a framework built upon the
-              React library.
+              Escrito por <strong>{author}</strong>, 
+              atua como Frontend Developer há mais de 1 ano, formado em Análise e Desenvolvimento de Sistemas.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
+              {/* <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter
-              </a>
+              </a> */}
             </p>
           </Container>
         )

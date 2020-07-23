@@ -12,7 +12,7 @@ class IndexPage extends React.Component {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMdx.edges
-    console.log(this.props)
+    
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />

@@ -35,7 +35,7 @@ function Bio() {
             />
             <p>
               Escrito por <strong>{author}</strong>, 
-              atua como Frontend Developer há mais de 1 ano, formado em Análise e Desenvolvimento de Sistemas.
+              atua como Frontend Developer React há mais de 1 ano, formado em Análise e Desenvolvimento de Sistemas.
               {` `}
               {/* <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter

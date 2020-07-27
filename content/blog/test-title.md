@@ -99,5 +99,5 @@ Com o uso do useState criamos duas variáveis items e page. Quando a página car
 
 Temos um botão para a próxima página que irá a altera a variável page e com esta alteração o useEffect será executado novamento retornando mais 10 items da API.
 
-<b>useContext</b>: <br /><br />
+<b>useContext</b>: com este hook você pode distribuir uma informação por toda sua aplicação.<br /><br />
 
